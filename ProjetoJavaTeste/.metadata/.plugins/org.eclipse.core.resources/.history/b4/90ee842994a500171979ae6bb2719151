@@ -1,0 +1,10 @@
+package br.com.teste.projetojavateste;
+
+public class ClaseTeste {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
